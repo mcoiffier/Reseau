@@ -10,5 +10,5 @@ package newpackage;
  * @author Morgan
  */
 public class NewClass {
-    
+    private String test;
 }
