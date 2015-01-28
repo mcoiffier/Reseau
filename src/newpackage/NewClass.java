@@ -11,4 +11,5 @@ package newpackage;
  */
 public class NewClass {
     private String test;
+    private String name;
 }
